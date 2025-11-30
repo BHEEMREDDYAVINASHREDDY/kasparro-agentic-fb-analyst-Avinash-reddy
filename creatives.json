@@ -1,0 +1,16 @@
+[
+  {
+    "creative_name": "ComfortFit Ad",
+    "format": "Image",
+    "text": "Premium comfort undergarments! Buy now!",
+    "cta": "Shop Now",
+    "media_type": "image"
+  },
+  {
+    "creative_name": "Winter Warmers Ad",
+    "format": "Video",
+    "text": "Stay warm with our new winter innerwear collection!",
+    "cta": "Learn More",
+    "media_type": "video"
+  }
+]
