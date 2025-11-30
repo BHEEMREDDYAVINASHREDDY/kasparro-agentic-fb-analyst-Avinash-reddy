@@ -1,0 +1,20 @@
+[
+  {
+    "campaign_name": "Undergarments Campaign",
+    "impressions": 120000,
+    "clicks": 5400,
+    "spend": 21000,
+    "cpc": 3.89,
+    "ctr": "4.5%",
+    "conversions": 320
+  },
+  {
+    "campaign_name": "Winter Innerwear Boost",
+    "impressions": 95000,
+    "clicks": 4100,
+    "spend": 18000,
+    "cpc": 4.39,
+    "ctr": "4.3%",
+    "conversions": 280
+  }
+]
